@@ -16,7 +16,7 @@ It demonstrates how to build a **regulatory-compliant token** that integrates **
 * **Deployment ID:** 'at1qdf35s4d6wesw64ydgyg4fm45q93yzlemm8lc3nt5jfw37crvcyq7twa5g'
 * **Deployment URL:** [View on Aleo Testnet](https://testnet.aleoscan.io/program?id=web3chicago.aleo)
 * **Transaction ID:** 'at1guwwxvnl70s5u0jdhwn8uhjcmh2uakyek54hf268lm5ndrjnevrqprk97a'
-dj
+  
 ---
 
 ## 2. Functional Overview
